@@ -6,10 +6,3 @@ git push origin master
 Creating a new branch is quick and simple. A
 2020-06-21
 Creating a new branch is quick.
-1
-2
-3
-4
-5
-6
-7
