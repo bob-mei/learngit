@@ -8,4 +8,4 @@ Creating a new branch is quick and simple. A
 Creating a new branch is quick.
 1
 2
-Creating a new branch is quick AND simple.1
+3
